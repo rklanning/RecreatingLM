@@ -8,3 +8,5 @@
 ### Predictors: the column name(s) in the data that will be the predictors. When inputting as a parameter, should be entered as a list:
 
 ## The test case of the function is the built-in dataset _airquality_ in R. The function checks conditions of the data, searching for missing values and character column vectors to remove. The output is a table consisting of the intercept and beta estimate names, their estimates, the standard error, t-value, and p-value. A summary of the multiple R-squared and F-statistic follow. 
+
+## This project helped translate my function-building skills from Python into R. 
